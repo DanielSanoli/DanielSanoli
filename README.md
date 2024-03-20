@@ -3,7 +3,7 @@
 
 🔭 Atualmente trabalho como Desenvolvedor de Software FullStack.
 
-## Conecte-se comigo
+## Entre em contato comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/daniel-oliveira-7b1063188/)
 
@@ -24,3 +24,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=lightblue)
 ![Maven](https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=Maven&logoColor=)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielSanoli&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=fff&title_color=E94D5F&text_color=FFF)
