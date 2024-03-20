@@ -1,3 +1,5 @@
+<img align="right" width="250px" style="margin-top:-20px" src="octocat.png"/>
+
 # Daniel Oliveira
 ## Hello, Devs!!
 
