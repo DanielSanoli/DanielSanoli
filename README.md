@@ -2,11 +2,14 @@
 ## Hello, Devs!!
 
 🔭 Atualmente trabalho como Desenvolvedor de Software FullStack.
-📫 Como entrar em contato comigo: daniel.sanoli28@gmail.com.
 
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/daniel-oliveira-7b1063188/)
+
+<div>
+  <a href = "mailto:daniel.sanoli28@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ## Ferramentas e Tecnologias
 
