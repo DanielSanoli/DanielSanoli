@@ -3,7 +3,7 @@
 # Daniel Oliveira
 ## Hello, Devs!!
 
-🔭 Atualmente trabalho como Desenvolvedor de Software FullStack.
+🔭 Software Developer | Desenvolvedor de Software FullStack
 
 ## Entre em contato comigo:
 
